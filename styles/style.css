@@ -3,16 +3,16 @@
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
-  background-color: #00539F;
+  background-color: white;
 }
 
 body {
   width: 600px;
   /* margin: 0 auto; */
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #42f4f4;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 10px solid #e529d5;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #FFFFFF;
   text-shadow: 3px 3px 1px black;
 }
 
